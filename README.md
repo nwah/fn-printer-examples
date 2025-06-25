@@ -2,7 +2,7 @@
 
 Examples of printing from Atari and other 8-bit machines in C via cc65
 
-<img src="examples/epson-80.png" width="300"/>
+[<img src="examples/epson-80.png" width="300"/>](examples/epson-80.pdf)
 
 ## building
 
